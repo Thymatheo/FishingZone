@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FishingZone": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    }
+  }
+}
